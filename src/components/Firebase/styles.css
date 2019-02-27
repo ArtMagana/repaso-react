@@ -1,0 +1,6 @@
+.chisme {
+    padding: 15px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+}
